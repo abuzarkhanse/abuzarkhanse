@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abuzar Khan
 
-I'm a BS Software Engineering student passionate about coding and technology, based in Pakistan 🇵🇰.
+I'm a **BS Software Engineering** student passionate about coding and technology, based in Pakistan 🇵🇰.
 
 ---
 
@@ -24,26 +24,25 @@ I'm a BS Software Engineering student passionate about coding and technology, ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 </div>
 
-
 ---
 
 ### 📫 Connect with Me
 
 <div align="left">
   <a href="https://www.instagram.com/abuzarkhanse?igsh=MTFlNTN6bDgyandsbA==">
-    <img src="https://img.shields.io/static/v1?logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="" />
+    <img src="https://img.shields.io/static/v1?logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/AbuzarKhan9900?mibextid=ZbWKwL">
-    <img src="https://img.shields.io/static/v1?logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="" />
+    <img src="https://img.shields.io/static/v1?logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
   </a>
   <a href="https://x.com/abuzarkhanse?t=CbtzGoOQ1cmH5g07yb_QTw&s=09">
-    <img src="https://img.shields.io/static/v1?logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="" />
+    <img src="https://img.shields.io/static/v1?logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
   </a>
   <a href="https://abuzar-khan2023.github.io/EarningInk/">
-    <img src="https://img.shields.io/static/v1?logo=blogger&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="" />
+    <img src="https://img.shields.io/static/v1?logo=blogger&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="Blog" />
   </a>
   <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="" />
+    <img src="https://img.shields.io/static/v1?logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
@@ -51,13 +50,12 @@ I'm a BS Software Engineering student passionate about coding and technology, ba
 
 ### 🐍 GitHub Contribution Graph
 
-<br clear="both">
-
-<img src="https://github.com/Abuzar-Khan2023/Abuzar-Khan2023/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abuzar-Khan2023&bg_color=1a1b27&color=ffffff&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
 ### 🌟 Support
 
 If you find my projects or contributions helpful, please consider giving them a star ⭐ or following me. It motivates me to continue contributing to the community and creating more open-source projects.
-
