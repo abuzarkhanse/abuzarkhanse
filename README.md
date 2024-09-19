@@ -61,7 +61,7 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 ### 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abuzar-Khan2023&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abuzar-Khan2023&theme=black-ice&hide_border=true&stroke=0000&background=00000000" alt="GitHub Streak Stats" />
 </div>
 
 ---
