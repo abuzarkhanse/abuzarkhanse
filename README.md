@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abuzar Khan
 
-I'm a **BS Software Engineering** student and **Web developer** passionate about coding and technology, based in Pakistan 🇵🇰.
+I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institute Of Applied Science And Technology and a **Web developer** passionate about coding and technology, based in Pakistan 🇵🇰.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abuzar-Khan2023&color=brightgreen)
 
