@@ -2,15 +2,15 @@
 
 I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institute Of Applied Science And Technology and a **Web developer** passionate about coding and technology, based in Pakistan 🇵🇰.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abuzar-Khan2023&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=abuzarkhanse&color=brightgreen)
 
 ---
 
 ### 📊 GitHub Stats & Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abuzar-Khan2023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzar-Khan2023&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abuzarkhanse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzarkhanse&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
   <a href="https://x.com/abuzarkhanse?t=CbtzGoOQ1cmH5g07yb_QTw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
   </a>
-  <a href="https://abuzar-khan2023.github.io/EarningInk/" target="_blank">
+  <a href="https://abuzarkhanse.github.io/EarningInk/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" alt="Blog" />
   </a>
   <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/" target="_blank">
@@ -53,7 +53,7 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abuzar-Khan2023&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abuzarkhanse&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
 </div>
 
 ---
@@ -61,7 +61,7 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 ### 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abuzar-Khan2023&theme=black-ice&hide_border=true&stroke=0000&background=00000000" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzarkhanse&theme=black-ice&hide_border=true&stroke=0000&background=00000000" alt="GitHub Streak Stats" />
 </div>
 
 ---
