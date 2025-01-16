@@ -1,6 +1,14 @@
 ## Hi there 👋, I'm Abuzar Khan
 
-I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institute Of Applied Science And Technology and a **Web developer** passionate about coding and technology, based in Pakistan 🇵🇰.
+<div align="center">
+  <h1>
+    <a href="https://github.com/Abuzar-Khan2023">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=Hi,+I'm+Abuzar+Khan;A+Passionate+Web+Developer;A+BS+Software+Engineering+Student;Always+Learning+and+Improving!">
+    </a>
+  </h1>
+</div>
+
+I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institute Of Applied Science And Technology and a **Web Developer** passionate about coding and technology, based in Pakistan 🇵🇰.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abuzarkhanse&color=brightgreen)
 
@@ -18,12 +26,18 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 ### 🛠️ Skills & Technologies
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
 </div>
 
 ---
@@ -31,20 +45,20 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.instagram.com/abuzarkhanse?igsh=MTFlNTN6bDgyandsbA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+  <a href="https://www.instagram.com/abuzarkhanse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/AbuzarKhan9900?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="Facebook" />
+  <a href="https://www.facebook.com/AbuzarKhan9900" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
-  <a href="https://x.com/abuzarkhanse?t=CbtzGoOQ1cmH5g07yb_QTw&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
+  <a href="https://x.com/abuzarkhanse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
   </a>
   <a href="https://abuzarkhanse.github.io/EarningInk/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" alt="Blog" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" height="40" alt="Blog" />
   </a>
   <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
 </div>
 
