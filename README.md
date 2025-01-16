@@ -45,20 +45,26 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 ### 📫 Connect with Me
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@AbuzarKhanSE" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" alt="YouTube" />
+  </a>
   <a href="https://www.instagram.com/abuzarkhanse" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+  </a>
+  <a href="https://x.com/abuzarkhanse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X (Twitter)" />
   </a>
   <a href="https://www.facebook.com/AbuzarKhan9900" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
-  <a href="https://x.com/abuzarkhanse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
+  <a href="https://discord.gg/abuzarkhanse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord" />
   </a>
-  <a href="https://abuzarkhanse.github.io/EarningInk/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" height="40" alt="Blog" />
-  </a>
-  <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  <a href="mailto:mrabuzar459@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
   </a>
 </div>
 
