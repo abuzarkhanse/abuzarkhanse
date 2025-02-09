@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <a href="https://github.com/Abuzar-Khan2023">
+    <a href="https://github.com/abuzarkhanse">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=Hi,+I'm+Abuzar+Khan;A+Passionate+Web+Developer;A+BS+Software+Engineering+Student;Always+Learning+and+Improving!">
     </a>
   </h1>
