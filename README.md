@@ -55,7 +55,8 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="margin: 0 10px;">
 </a>
 <a href="https://x.com/abuzarkhanse" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/48/ffffff/x.png" alt="X (Twitter)" style="margin: 0 10px;">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" alt="X" 
+       style="margin: 0 10px; background-color: black; padding: 5px; border-radius: 10px;">
 </a>
 <a href="https://www.facebook.com/AbuzarKhan9900" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="margin: 0 10px;">
