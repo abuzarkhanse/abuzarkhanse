@@ -14,11 +14,11 @@ I'm a **BS Software Engineering** student at Pak-Austria Fachhochschule Institut
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats & Top Languages  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuzarkhanse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" width="300" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzarkhanse&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="300" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abuzarkhanse&theme=dracula" height="150" width="300" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abuzarkhanse&theme=dracula" height="150" width="300" alt="Most Used Languages" />
 </div>
 
 ---
